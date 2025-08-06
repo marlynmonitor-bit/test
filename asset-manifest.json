@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/test/static/css/main.95432296.css",
-    "main.js": "/gdk_website/static/js/main.ebcd1be2.js",
-    "static/media/1.jpg": "/gdk_website/static/media/1.e661a28452b0b1b2880e.jpg",
-    "static/media/Poster Jasa Service.png": "/gdk_website/static/media/Poster Jasa Service.c627fcd7c97f3bcd1ce4.png",
+    "main.js": "/test/static/js/main.ebcd1be2.js",
+    "static/media/1.jpg": "/test/static/media/1.e661a28452b0b1b2880e.jpg",
+    "static/media/Poster Jasa Service.png": "/test/static/media/Poster Jasa Service.c627fcd7c97f3bcd1ce4.png",
     "static/media/Service Pc.png": "/gdk_website/static/media/Service Pc.c6c2e1b54e81c9c69b09.png",
     "static/media/Pc Kasir.png": "/gdk_website/static/media/Pc Kasir.ce3b3f9c206f864c8e50.png",
     "static/media/Service Proyektor.jpeg": "/gdk_website/static/media/Service Proyektor.d9f4ce242365b4468afd.jpeg",
